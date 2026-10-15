@@ -1,4 +1,4 @@
-🌱 EcoLoop-From Food Waste To New Biginnings
+🌱 EcoLoop-FromFoodWasteToNewBiginnings
 
 Building a sustainable future through technology.
 
