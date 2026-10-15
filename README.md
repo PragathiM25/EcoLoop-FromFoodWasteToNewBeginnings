@@ -1,2 +1,8 @@
-# EcoLoop-From-Food-Waste-To-New-Beginnings
-EcoLoop-From Food Waste To New Beginnings is a sustainability-focused web application that promotes eco-friendly practices, waste management and a circular economy through technology.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
