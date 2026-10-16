@@ -42,5 +42,3 @@ Package Manager: npm
 🌍 Impact
 
 EcoLoop aims to promote environmental awareness, encourage responsible resource use, and support sustainable habits through a technology-driven approach.
-
-
